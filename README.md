@@ -1,6 +1,9 @@
 # 🍽️ Restaurant API Dashboard
 
-### JavaScript API Integration Assignment
+### JavaScript API Integration project
+
+<img width="669" height="362" alt="Food API SS" src="https://github.com/user-attachments/assets/18c630d5-9b24-4591-bfe1-610c735eca67" />
+
 
 ## About the Project
 
